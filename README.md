@@ -1,0 +1,2 @@
+# SpringCloudDemoConfig
+用于SpringCloudDemo的配置中心
